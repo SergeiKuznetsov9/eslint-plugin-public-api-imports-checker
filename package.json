@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-public-api-imports",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Checking imports use only public api",
   "keywords": [
     "eslint",
